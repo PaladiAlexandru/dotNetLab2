@@ -1,0 +1,16 @@
+C:\Users\alex_\source\repos\wheather\wheather\bin\Debug\net5.0\wheather.exe
+C:\Users\alex_\source\repos\wheather\wheather\bin\Debug\net5.0\wheather.deps.json
+C:\Users\alex_\source\repos\wheather\wheather\bin\Debug\net5.0\wheather.runtimeconfig.json
+C:\Users\alex_\source\repos\wheather\wheather\bin\Debug\net5.0\wheather.runtimeconfig.dev.json
+C:\Users\alex_\source\repos\wheather\wheather\bin\Debug\net5.0\wheather.dll
+C:\Users\alex_\source\repos\wheather\wheather\bin\Debug\net5.0\ref\wheather.dll
+C:\Users\alex_\source\repos\wheather\wheather\bin\Debug\net5.0\wheather.pdb
+C:\Users\alex_\source\repos\wheather\wheather\obj\Debug\net5.0\wheather.csproj.AssemblyReference.cache
+C:\Users\alex_\source\repos\wheather\wheather\obj\Debug\net5.0\wheather.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alex_\source\repos\wheather\wheather\obj\Debug\net5.0\wheather.AssemblyInfoInputs.cache
+C:\Users\alex_\source\repos\wheather\wheather\obj\Debug\net5.0\wheather.AssemblyInfo.cs
+C:\Users\alex_\source\repos\wheather\wheather\obj\Debug\net5.0\wheather.csproj.CoreCompileInputs.cache
+C:\Users\alex_\source\repos\wheather\wheather\obj\Debug\net5.0\wheather.dll
+C:\Users\alex_\source\repos\wheather\wheather\obj\Debug\net5.0\ref\wheather.dll
+C:\Users\alex_\source\repos\wheather\wheather\obj\Debug\net5.0\wheather.pdb
+C:\Users\alex_\source\repos\wheather\wheather\obj\Debug\net5.0\wheather.genruntimeconfig.cache
